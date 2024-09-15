@@ -13,7 +13,7 @@ def google_search(search_term, api_key, cse_id, **kwargs):
 
 results = google_search(
     'stackoverflow site:en.wikipedia.org', 
-    "AIzaSyBpO8DsT29fc_-mQYecYmDOcowfgeQ0Rns", 
+    "<*****>", 
     "135d9c12e6cef4053", num=10)
 
 for result in results:

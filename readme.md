@@ -24,8 +24,8 @@ An interactive AI assistant that combines web search and natural language proces
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ai-search-chat-assistant.git
-cd ai-search-chat-assistant
+git clone https://github.com/yourusername/RAG_Bedrock.git
+cd RAG_Bedrock
 ```
 
 ### 2. Environment Variables
